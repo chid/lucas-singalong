@@ -1,0 +1,4 @@
+local-media/
+dist/media/
+dist/local-media.json
+docs/media/

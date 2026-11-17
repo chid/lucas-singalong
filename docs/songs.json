@@ -10,7 +10,9 @@
     "words": "rescue · ladder · hose",
     "play": "Pretend a cushion is a fire. Ask: what could we use to reach it?",
     "url": "https://www.youtube.com/watch?v=RI6UT82cB_E",
-    "source": "https://supersimple.com/song/here-comes-the-fire-truck-featuring-caitie/"
+    "source": "https://supersimple.com/song/here-comes-the-fire-truck-featuring-caitie/",
+    "videoId": "RI6UT82cB_E",
+    "childTitle": "Fire engine"
   },
   {
     "id": "dig",
@@ -23,7 +25,9 @@
     "words": "dig · push · scoop",
     "play": "Use your arms as a digger, then a bulldozer. Say what each machine does.",
     "url": "https://www.youtube.com/watch?v=HQYMBPlPis4",
-    "source": "https://www.youtube.com/watch?v=HQYMBPlPis4"
+    "source": "https://www.youtube.com/watch?v=HQYMBPlPis4",
+    "videoId": "HQYMBPlPis4",
+    "childTitle": "Digger"
   },
   {
     "id": "car",
@@ -36,7 +40,9 @@
     "words": "drive · ride · row · fly",
     "play": "Line up a car, boat and plane. Let Lucas choose which one you sing about.",
     "url": "https://supersimple.com/song/driving-in-my-car/",
-    "source": "https://supersimple.com/song/driving-in-my-car/"
+    "source": "https://supersimple.com/song/driving-in-my-car/",
+    "videoId": "BdrZWu2dZ4c",
+    "childTitle": "Let’s drive!"
   },
   {
     "id": "jungle",
@@ -49,7 +55,9 @@
     "words": "stomp · jump · skip",
     "play": "Explore the room together. Pause and let Lucas choose the next movement.",
     "url": "https://www.youtube.com/watch?v=GoSq-yZcJ-4",
-    "source": "https://supersimple.com/move-with-caitie/walking-in-the-jungle/"
+    "source": "https://supersimple.com/move-with-caitie/walking-in-the-jungle/",
+    "videoId": "GoSq-yZcJ-4",
+    "childTitle": "Jungle adventure"
   },
   {
     "id": "farm",
@@ -62,7 +70,9 @@
     "words": "gather · plant · pick",
     "play": "Pretend to plant seeds, water them and gather eggs. What might a tractor help with?",
     "url": "https://supersimple.com/song/the-farmer-in-the-dell-featuring-caitie/",
-    "source": "https://supersimple.com/song/the-farmer-in-the-dell-featuring-caitie/"
+    "source": "https://supersimple.com/song/the-farmer-in-the-dell-featuring-caitie/",
+    "videoId": "liMbi-GiN4c",
+    "childTitle": "On the farm"
   },
   {
     "id": "sea",
@@ -75,7 +85,9 @@
     "words": "sailor · sea · octopus",
     "play": "Make a pretend boat, then name the animals you might see below it.",
     "url": "https://www.youtube.com/watch?v=nFxAiWkSePk",
-    "source": "https://supersimple.com/sing-along-with-tobee/a-sailor-went-to-sea/"
+    "source": "https://supersimple.com/sing-along-with-tobee/a-sailor-went-to-sea/",
+    "videoId": "nFxAiWkSePk",
+    "childTitle": "Under the sea"
   },
   {
     "id": "opposites",
@@ -88,7 +100,9 @@
     "words": "open / shut · big / small",
     "play": "Make a big garage and a small garage with your arms for toy trucks.",
     "url": "https://www.youtube.com/watch?v=RNUZBHlRH4Y",
-    "source": "https://supersimple.com/sing-along-with-tobee/open-shut-them/"
+    "source": "https://supersimple.com/sing-along-with-tobee/open-shut-them/",
+    "videoId": "RNUZBHlRH4Y",
+    "childTitle": "Big & small"
   },
   {
     "id": "weather",
@@ -101,7 +115,9 @@
     "words": "sunny · rainy · cloudy",
     "play": "Look outside after singing. Describe today’s sky and choose what to wear.",
     "url": "https://supersimple.com/song/hows-the-weather-featuring-the-super-simple-puppets/",
-    "source": "https://supersimple.com/song/hows-the-weather-featuring-the-super-simple-puppets/"
+    "source": "https://supersimple.com/song/hows-the-weather-featuring-the-super-simple-puppets/",
+    "videoId": "KBL5aXSJTlE",
+    "childTitle": "Sun & rain"
   },
   {
     "id": "feelings",
@@ -114,7 +130,9 @@
     "words": "grumpy · sleepy · silly",
     "play": "Make a face together. Offer your own feeling first, then invite his.",
     "url": "https://supersimple.com/song/how-are-you-feeling/",
-    "source": "https://supersimple.com/song/how-are-you-feeling/"
+    "source": "https://supersimple.com/song/how-are-you-feeling/",
+    "videoId": "HEcpLY4pCqM",
+    "childTitle": "Funny faces"
   },
   {
     "id": "shoes",
@@ -127,7 +145,9 @@
     "words": "jacket · scarf · hat",
     "play": "Let a teddy get dressed too. Swap in the clothes you actually need today.",
     "url": "https://supersimple.com/song/put-on-your-shoes-featuring-noodle-pals/",
-    "source": "https://supersimple.com/song/put-on-your-shoes-featuring-noodle-pals/"
+    "source": "https://supersimple.com/song/put-on-your-shoes-featuring-noodle-pals/",
+    "videoId": "D_FGBpQ0iOg",
+    "childTitle": "Get dressed"
   },
   {
     "id": "ants",
@@ -140,6 +160,8 @@
     "words": "march · counting · rhyme",
     "play": "March with toy animals. Start with a few verses; let him fill a familiar ending.",
     "url": "https://supersimple.com/song/ants-go-marching/",
-    "source": "https://supersimple.com/song/ants-go-marching/"
+    "source": "https://supersimple.com/song/ants-go-marching/",
+    "videoId": "2S__fbCGwOM",
+    "childTitle": "Marching ants"
   }
 ]
