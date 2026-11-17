@@ -1,8 +1,12 @@
 from pathlib import Path
 import json,subprocess,concurrent.futures,hashlib
 root=Path(__file__).resolve().parents[1];source=root/'local-media';dest=root/'dist/media';dest.mkdir(exist_ok=True)
+previous_path=root/'dist/local-media.json'
+previous=json.loads(previous_path.read_text()) if previous_path.exists() else {}
 def prepare(p):
  out=dest/p.name
+ cached=previous.get(p.stem)
+ if cached and out.exists() and hashlib.sha256(out.read_bytes()).hexdigest()==cached['sha256'] and (dest/(p.stem+'.jpg')).exists():return p.stem,cached
  if not out.exists():subprocess.run(['ffmpeg','-nostdin','-v','error','-i',str(p),'-c:v','libx264','-preset','veryfast','-crf','22','-pix_fmt','yuv420p','-threads','2','-c:a','copy','-movflags','+faststart','-y',str(out)],check=True)
  # Full decode verifies the file, including audio.
  subprocess.run(['ffmpeg','-nostdin','-v','error','-threads','2','-i',str(out),'-f','null','-'],check=True)

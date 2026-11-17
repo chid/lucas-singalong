@@ -12,7 +12,9 @@
     "url": "https://www.youtube.com/watch?v=RI6UT82cB_E",
     "source": "https://supersimple.com/song/here-comes-the-fire-truck-featuring-caitie/",
     "videoId": "RI6UT82cB_E",
-    "childTitle": "Fire engine"
+    "childTitle": "Fire engine",
+    "collection": "little",
+    "ageRange": "2–4"
   },
   {
     "id": "dig",
@@ -27,7 +29,9 @@
     "url": "https://www.youtube.com/watch?v=HQYMBPlPis4",
     "source": "https://www.youtube.com/watch?v=HQYMBPlPis4",
     "videoId": "HQYMBPlPis4",
-    "childTitle": "Digger"
+    "childTitle": "Digger",
+    "collection": "little",
+    "ageRange": "2–4"
   },
   {
     "id": "car",
@@ -42,7 +46,9 @@
     "url": "https://supersimple.com/song/driving-in-my-car/",
     "source": "https://supersimple.com/song/driving-in-my-car/",
     "videoId": "BdrZWu2dZ4c",
-    "childTitle": "Let’s drive!"
+    "childTitle": "Let’s drive!",
+    "collection": "little",
+    "ageRange": "2–4"
   },
   {
     "id": "jungle",
@@ -57,7 +63,9 @@
     "url": "https://www.youtube.com/watch?v=GoSq-yZcJ-4",
     "source": "https://supersimple.com/move-with-caitie/walking-in-the-jungle/",
     "videoId": "GoSq-yZcJ-4",
-    "childTitle": "Jungle adventure"
+    "childTitle": "Jungle adventure",
+    "collection": "little",
+    "ageRange": "2–4"
   },
   {
     "id": "farm",
@@ -72,7 +80,9 @@
     "url": "https://supersimple.com/song/the-farmer-in-the-dell-featuring-caitie/",
     "source": "https://supersimple.com/song/the-farmer-in-the-dell-featuring-caitie/",
     "videoId": "liMbi-GiN4c",
-    "childTitle": "On the farm"
+    "childTitle": "On the farm",
+    "collection": "little",
+    "ageRange": "2–4"
   },
   {
     "id": "sea",
@@ -87,7 +97,9 @@
     "url": "https://www.youtube.com/watch?v=nFxAiWkSePk",
     "source": "https://supersimple.com/sing-along-with-tobee/a-sailor-went-to-sea/",
     "videoId": "nFxAiWkSePk",
-    "childTitle": "Under the sea"
+    "childTitle": "Under the sea",
+    "collection": "little",
+    "ageRange": "2–4"
   },
   {
     "id": "opposites",
@@ -102,7 +114,9 @@
     "url": "https://www.youtube.com/watch?v=RNUZBHlRH4Y",
     "source": "https://supersimple.com/sing-along-with-tobee/open-shut-them/",
     "videoId": "RNUZBHlRH4Y",
-    "childTitle": "Big & small"
+    "childTitle": "Big & small",
+    "collection": "little",
+    "ageRange": "2–4"
   },
   {
     "id": "weather",
@@ -117,7 +131,9 @@
     "url": "https://supersimple.com/song/hows-the-weather-featuring-the-super-simple-puppets/",
     "source": "https://supersimple.com/song/hows-the-weather-featuring-the-super-simple-puppets/",
     "videoId": "KBL5aXSJTlE",
-    "childTitle": "Sun & rain"
+    "childTitle": "Sun & rain",
+    "collection": "little",
+    "ageRange": "2–4"
   },
   {
     "id": "feelings",
@@ -132,7 +148,9 @@
     "url": "https://supersimple.com/song/how-are-you-feeling/",
     "source": "https://supersimple.com/song/how-are-you-feeling/",
     "videoId": "HEcpLY4pCqM",
-    "childTitle": "Funny faces"
+    "childTitle": "Funny faces",
+    "collection": "little",
+    "ageRange": "2–4"
   },
   {
     "id": "shoes",
@@ -147,7 +165,9 @@
     "url": "https://supersimple.com/song/put-on-your-shoes-featuring-noodle-pals/",
     "source": "https://supersimple.com/song/put-on-your-shoes-featuring-noodle-pals/",
     "videoId": "D_FGBpQ0iOg",
-    "childTitle": "Get dressed"
+    "childTitle": "Get dressed",
+    "collection": "little",
+    "ageRange": "2–4"
   },
   {
     "id": "ants",
@@ -162,6 +182,212 @@
     "url": "https://supersimple.com/song/ants-go-marching/",
     "source": "https://supersimple.com/song/ants-go-marching/",
     "videoId": "2S__fbCGwOM",
-    "childTitle": "Marching ants"
+    "childTitle": "Marching ants",
+    "collection": "little",
+    "ageRange": "2–4"
+  },
+  {
+    "id": "bay",
+    "emoji": "🍉",
+    "title": "Down by the Bay",
+    "artist": "Raffi",
+    "category": "Rhythm & rhyme",
+    "ageRange": "4–5",
+    "childTitle": "Silly rhymes",
+    "badge": "Make up a rhyme",
+    "why": "A playful refrain with room to invent your own surprising rhymes. The official upload is audio with a still picture.",
+    "words": "bay · rhyme · imagine",
+    "play": "Take turns inventing a silly animal rhyme. It need not make sense; enjoy how the words sound.",
+    "videoId": "DWKVKfk6e40",
+    "url": "https://www.youtube.com/watch?v=DWKVKfk6e40",
+    "source": "https://www.youtube.com/watch?v=DWKVKfk6e40",
+    "collection": "explorers"
+  },
+  {
+    "id": "goldfish",
+    "emoji": "🐠",
+    "title": "The Goldfish (Let’s Go Swimming)",
+    "artist": "The Laurie Berkner Band",
+    "category": "Stories & adventure",
+    "ageRange": "4–5",
+    "childTitle": "Silly goldfish",
+    "badge": "Remember the story",
+    "why": "Follow a longer comic sequence, act out the fish’s mistakes and return to the repeated chorus.",
+    "words": "swim · bicycle · remember",
+    "play": "Pause after a silly activity and ask what a fish would really do. Invent a new verse together.",
+    "videoId": "Cg-wnQKRHTs",
+    "url": "https://www.youtube.com/watch?v=Cg-wnQKRHTs",
+    "source": "https://www.youtube.com/watch?v=Cg-wnQKRHTs",
+    "collection": "explorers"
+  },
+  {
+    "id": "rocketship",
+    "emoji": "🚀",
+    "title": "Rocketship Run",
+    "artist": "The Laurie Berkner Band",
+    "category": "Stories & adventure",
+    "ageRange": "4–5",
+    "childTitle": "Rocketship run",
+    "badge": "From trucks to space",
+    "why": "A pretend rocket journey with movement cues, a returning chorus and a fuller band arrangement. A playful bridge from vehicles to space.",
+    "words": "rocketship · blast off · journey",
+    "play": "Build a pretend rocket and act out a countdown. Retell the stops in order. Treat the journey as imagination, rather than a lesson in space travel.",
+    "videoId": "24XkVcWxEoE",
+    "url": "https://www.youtube.com/watch?v=24XkVcWxEoE",
+    "source": "https://www.youtube.com/watch?v=24XkVcWxEoE",
+    "collection": "explorers"
+  },
+  {
+    "id": "canoe",
+    "emoji": "🛶",
+    "title": "Can You Canoe?",
+    "artist": "The Okee Dokee Brothers",
+    "category": "Stories & adventure",
+    "ageRange": "4–5",
+    "childTitle": "Canoe adventure",
+    "badge": "A folk-song adventure",
+    "why": "A melodic folk duet with a repeated invitation and a river-adventure setting; a change from nursery-song arrangements.",
+    "words": "canoe · paddle · adventure",
+    "play": "Make a cushion canoe and plan a trip: what would you pack, and where would you stop? Notice the string instruments.",
+    "videoId": "MRge0RCBWSk",
+    "url": "https://www.youtube.com/watch?v=MRge0RCBWSk",
+    "source": "https://www.youtube.com/watch?v=MRge0RCBWSk",
+    "collection": "explorers"
+  },
+  {
+    "id": "prepositions",
+    "emoji": "📦",
+    "title": "The Prepositions Song",
+    "artist": "Scratch Garden",
+    "category": "Words & numbers",
+    "ageRange": "6–8",
+    "childTitle": "Where is it?",
+    "badge": "More precise sentences",
+    "why": "Use position words to describe where things are, then put them into your own instructions.",
+    "words": "between · beside · behind",
+    "play": "Hide a toy truck and give clues using position words. Swap who gives and follows the clues.",
+    "videoId": "xyMrLQ4ZI-4",
+    "url": "https://www.youtube.com/watch?v=xyMrLQ4ZI-4",
+    "source": "https://www.youtube.com/watch?v=xyMrLQ4ZI-4",
+    "collection": "explorers"
+  },
+  {
+    "id": "counttwos",
+    "emoji": "👟",
+    "title": "The Counting by Twos Song",
+    "artist": "Scratch Garden",
+    "category": "Words & numbers",
+    "ageRange": "6–8",
+    "childTitle": "Count in twos",
+    "badge": "Patterns you can sing",
+    "why": "A steady counting pattern to connect to real pairs, rather than only memorising a number sequence.",
+    "words": "pair · twice · pattern",
+    "play": "Line up pairs of socks or toy wheels. Count each object, then count by pairs and compare the totals.",
+    "videoId": "GvTcpfSnOMQ",
+    "url": "https://www.youtube.com/watch?v=GvTcpfSnOMQ",
+    "source": "https://www.youtube.com/watch?v=GvTcpfSnOMQ",
+    "collection": "explorers"
+  },
+  {
+    "id": "water",
+    "emoji": "💧",
+    "title": "The Water Cycle Song",
+    "artist": "Hopscotch Songs",
+    "category": "Science & world",
+    "ageRange": "6–8",
+    "childTitle": "Water’s journey",
+    "badge": "A cycle with big words",
+    "why": "A repeating song for naming water-cycle processes; connect each new term to something you can observe.",
+    "words": "evaporation · condensation · precipitation",
+    "play": "Notice a drying puddle and droplets on the outside of a cold glass. Draw arrows to tell a drop’s journey; a song is an introduction, not a complete explanation.",
+    "videoId": "gBbFxl6Oy94",
+    "url": "https://www.youtube.com/watch?v=gBbFxl6Oy94",
+    "source": "https://www.youtube.com/watch?v=gBbFxl6Oy94",
+    "collection": "explorers"
+  },
+  {
+    "id": "planets",
+    "emoji": "🪐",
+    "title": "The Planets of Our Solar System Song (Update)",
+    "artist": "Hopscotch Songs feat. The Hoover Jam",
+    "category": "Science & world",
+    "ageRange": "6–8",
+    "childTitle": "Meet the planets",
+    "badge": "A longer singing challenge",
+    "why": "A longer song with separate planet sections, new descriptive words and a returning chorus.",
+    "words": "orbit · atmosphere · solar system",
+    "play": "Choose one planet per listen. Draw it, say one thing you noticed and ask one question to investigate. Pictures and spacing in the song are not to scale.",
+    "videoId": "RvfVTPYw-kA",
+    "url": "https://www.youtube.com/watch?v=RvfVTPYw-kA",
+    "source": "https://www.youtube.com/watch?v=RvfVTPYw-kA",
+    "collection": "explorers"
+  },
+  {
+    "id": "continents",
+    "emoji": "🌏",
+    "title": "Seven Continents Song (Oceania Version)",
+    "artist": "Hopscotch Songs",
+    "category": "Science & world",
+    "ageRange": "6–8",
+    "childTitle": "Around the world",
+    "badge": "Place names and maps",
+    "why": "Use a memorable tune to explore a seven-continent naming convention and locate broad regions on a globe.",
+    "words": "continent · ocean · Oceania",
+    "play": "Find Australia and then a place connected to someone you know. This version says Oceania for the wider region; maps may instead label the continent Australia.",
+    "videoId": "KiXjGFOzY3c",
+    "url": "https://www.youtube.com/watch?v=KiXjGFOzY3c",
+    "source": "https://www.youtube.com/watch?v=KiXjGFOzY3c",
+    "collection": "explorers"
+  },
+  {
+    "id": "elements",
+    "emoji": "⚛️",
+    "title": "Meet the Elements",
+    "artist": "They Might Be Giants",
+    "category": "Science & world",
+    "ageRange": "6–8",
+    "childTitle": "What things are made of",
+    "badge": "An early taste of chemistry",
+    "why": "An upbeat band song introduces the idea that materials are made of elements; enjoy the chorus before trying to explain every term.",
+    "words": "element · atom · combine",
+    "play": "Pick one material mentioned and look for it at home. Use models to discuss combining atoms; do not expect the whole song to be understood on the first listen.",
+    "videoId": "Uy0m7jnyv6U",
+    "url": "https://www.youtube.com/watch?v=Uy0m7jnyv6U",
+    "source": "https://www.youtube.com/watch?v=Uy0m7jnyv6U",
+    "collection": "explorers"
+  },
+  {
+    "id": "photosynthesis",
+    "emoji": "🌿",
+    "title": "Photosynthesis",
+    "artist": "They Might Be Giants",
+    "category": "Science & world",
+    "ageRange": "6–8",
+    "childTitle": "How plants grow",
+    "badge": "Science with a strong chorus",
+    "why": "A catchy rock song opens a conversation about how plants use light to make sugars, with technical vocabulary to revisit slowly.",
+    "words": "photosynthesis · chlorophyll · energy",
+    "play": "Look at a plant together and name what it needs. Draw sunlight, water and air going in, and explain that light provides energy to make sugars.",
+    "videoId": "LgYPeeABoUs",
+    "url": "https://www.youtube.com/watch?v=LgYPeeABoUs",
+    "source": "https://www.youtube.com/watch?v=LgYPeeABoUs",
+    "collection": "explorers"
+  },
+  {
+    "id": "doremi",
+    "emoji": "🎶",
+    "title": "Do-Re-Mi (Official Lyric Video)",
+    "artist": "The Sound of Music / Rodgers & Hammerstein",
+    "category": "Music & singing",
+    "ageRange": "4–8",
+    "childTitle": "Do-Re-Mi",
+    "badge": "A different musical world",
+    "why": "A musical-theatre song with rising note names, wordplay and longer phrases; start with the repeating note-name section.",
+    "words": "melody · note · scale",
+    "play": "Make your hand move higher as the notes rise. Echo just a short phrase, then make up your own three-note tune. The English wordplay is a memory aid for the syllables.",
+    "videoId": "Qy9cj-zwbVY",
+    "url": "https://www.youtube.com/watch?v=Qy9cj-zwbVY",
+    "source": "https://www.youtube.com/watch?v=Qy9cj-zwbVY",
+    "collection": "explorers"
   }
 ]

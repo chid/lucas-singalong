@@ -1,6 +1,6 @@
 # Lucas’s Songs
 
-Child-first song shelf: 11 large picture buttons, simple topic filters, in-page playback, replay, full screen, next-song and favourites. Vocabulary and play ideas remain at `grownups.html`. Next-song is manual; nothing auto-advances.
+Child-first song shelf: 23 large picture buttons across Little singers (11) and Growing explorers (12), simple topic filters, in-page playback, replay, full screen, next-song and favourites. Vocabulary and play ideas remain at `grownups.html`, with rough starting ranges of 2–4, 4–5 and 6–8 (Do-Re-Mi spans 4–8). These are editorial suggestions, not milestones or prerequisites. Open `/#explorers` to go straight to the older collection. Next-song is manual; nothing auto-advances.
 
 ## Hosting
 
@@ -14,7 +14,7 @@ Local playback needs home Wi-Fi and g2 running; internet is not needed. The tabl
 
 ## Prepare and update
 
-`python3 scripts/download-videos.py` downloads the selected public official videos with the current yt-dlp and saves source metadata, logs and a report under `local-media/`. `python3 scripts/prepare-local-media.py` prepares H.264/AAC copies, decodes each fully and records duration, codecs, size and SHA-256. Both require `uv`, `node`, `ffmpeg` and `ffprobe` already available on this Mac. No cookies or account login are used for downloads.
+`python3 scripts/download-videos.py [song-id ...]` downloads the selected public official videos with the current yt-dlp and saves source metadata, logs and a report under `local-media/`. `python3 scripts/prepare-local-media.py` prepares H.264/AAC copies, decodes each new file fully, reuses prior verification only when the output hash matches, and records duration, codecs, size and SHA-256. Both require `uv`, `node`, `ffmpeg` and `ffprobe` already available on this Mac. No cookies or account login are used for downloads.
 
 Sync `dist/` to `charley@192.168.7.243:/home/charley/vault/lucas-songs/`. Copy frontend assets to `docs/` without media or the local manifest; keep `docs/local-media.json` equal to `{}`. Commit and push for Pages. Do not upload the videos to GitHub.
 
