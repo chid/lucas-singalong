@@ -15,7 +15,8 @@ def prepare(p):
  shutil.copy2(p.with_suffix('.jpg'),dest/(p.stem+'.jpg'))
  print(p.stem,'verified',flush=True)
  return p.stem,{'src':'media/'+out.name,'poster':'media/'+p.stem+'.jpg','bytes':out.stat().st_size,'sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'probe':info}
-with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:manifest=dict(pool.map(prepare,sorted(source.glob('*.mp4'))))
+selected={s['id'] for s in json.loads((root/'dist/songs.json').read_text())}
+with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:manifest=dict(pool.map(prepare,sorted(p for p in source.glob('*.mp4') if p.stem in selected)))
 (root/'dist/local-media.json').write_text(json.dumps(manifest,indent=2))
 (source/'verification.json').write_text(json.dumps(manifest,indent=2))
 print('Total bytes',sum(m['bytes'] for m in manifest.values()),flush=True)
